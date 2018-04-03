@@ -1,1 +1,1 @@
-fork while fork
+while(1){&calc}
