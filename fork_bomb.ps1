@@ -1,3 +1,1 @@
-:TOP
- start "" %0
- goto TOP
+for(){PS|II}
